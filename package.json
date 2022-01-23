@@ -1,0 +1,10 @@
+{
+  "name": "the-marketplace-api-network",
+  "version": "0.0.2",
+  "description": "The Marketplace API Network developed for Sello Products",
+  "main": "src/index.js",
+  "repository": "git@github.com:selloaustralia/mapi.git",
+  "author": "Vishnu Raj <synamatics@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
